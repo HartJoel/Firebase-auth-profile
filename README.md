@@ -2,7 +2,7 @@ Firebase Auth Profile
 
 A React + Firebase application for user authentication and profile management. Users can sign up, log in, and manage personal details like First Name, Last Name, Age, and Favorite Movie.
 
-![Project Preview](./assets/Screenshot%2025-08-14%213432.png)
+![Project Preview](src/assets/Screenshot%202025-08-14%20213432.png)
 
 ✨ Features
 ✅ Firebase Authentication (Email/Password)
