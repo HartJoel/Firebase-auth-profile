@@ -1,12 +1,18 @@
-# React + Vite
+Firebase Auth Profile
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Firebase application for user authentication and profile management. Users can sign up, log in, and manage personal details like First Name, Last Name, Age, and Favorite Movie.
 
-Currently, two official plugins are available:
+![Project Preview](./assets/Screenshot%2025-08-14%213432.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
+✅ Firebase Authentication (Email/Password)
+✅ Firestore Database for storing user profiles
+✅ Responsive Design with Tailwind CSS
+✅ Firebase Hosting Deployment
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠 Tech Stack
+React (Vite)
+Firebase (Auth, Firestore)
+React Router
+Tailwind CSS
+Firebase Hosting
