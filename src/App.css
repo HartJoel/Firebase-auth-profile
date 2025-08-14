@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+/* Import Tailwind */
+@import "tailwindcss";
+
+/* 3️⃣ Define theme variables */
+@theme {
+  --font-poppins: Poppins, sans-serif;
+}
+
+/* 4️⃣ Apply globally (optional) */
+@layer base {
+  * {
+    font-family: var(--font-poppins);
+  }
+}
